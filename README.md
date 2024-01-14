@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Satyam Chillal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0&h=220"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyacodermk&label=Profile%20views&color=0e75b6&style=flat" alt="satyacodermk" /> </p>
@@ -8,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyam chillal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam chillal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/satyam-chillal-b7881223a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam chillal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/satyam.chillal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyam chillal" height="30" width="40" /></a>
+<a href="https://instagram.com/satyam_siddheshwar_chillal?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_siddheshwar_chillal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
