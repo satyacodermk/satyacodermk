@@ -1,3 +1,4 @@
+![logo](https://github.com/satyacodermk/satyacodermk/blob/main/Github-Banner2.png)
 <h1 align="center">Hi 👋, I'm Satyam Chillal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0&h=220"> 
