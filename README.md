@@ -6,7 +6,13 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning, Prompt Engineering, Java, React.js**
 
+- 👨‍💻 All of my projects are available at [https://github.com/satyacodermk/](https://github.com/satyacodermk/)
+
 - 💬 Ask me about **Python, Computer Vision, Machine Learning, Programming**
+
+- 📫 How to reach me **chillalsatyam2003@gmail.com**
+
+- ⚡ Fun fact **Enjoy playing with errors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
